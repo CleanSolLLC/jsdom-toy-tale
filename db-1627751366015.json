@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": "35"
+      "likes": 33
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": "21"
+      "likes": 18
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": "2"
+      "likes": 0
     },
     {
       "id": 8,
@@ -71,12 +71,6 @@
       "image": "https://api.time.com/wp-content/uploads/2020/11/TFK_ToyGuide_Squeakee_v2.jpg",
       "likes": 5,
       "id": 12
-    },
-    {
-      "name": "Elmo",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5UrV5jGpxmj7P2Z-_DcY89Qfvdyl9nanUQ&usqp=CAU",
-      "likes": "4",
-      "id": 13
     }
   ]
 }
